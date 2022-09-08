@@ -1,0 +1,8 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/mochawesome-report/assets
+/cypress/videos
+/cypress/integration/1-getting-started
+/cypress/integration/2-advanced-examples
